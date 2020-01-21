@@ -1,0 +1,20 @@
+.schedule p
+{
+  color: red;
+}
+table {
+	background-color:yellow;
+	border-collapse:collapse; 
+}
+td {
+	padding:10px;
+	border-bottom: 2px solid black; 
+}
+.imageClass
+{
+	border-style:dotted;
+	border-width: 5px;
+	float: left;
+	margin: 20px 10px 30px 35px;
+	padding: :5px 10px 15px 20px; 
+}
